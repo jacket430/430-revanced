@@ -5,4 +5,4 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news"
 uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
 build-mode = "both"
-arch = "all"
+arch = "'arm64-v8a' 'armeabi-v7a'"
