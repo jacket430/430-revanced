@@ -6,77 +6,170 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
-[Music]
-build-mode = "both"
+[Instagram [430]]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-
-[GooglePhotos]
 build-mode = "both"
+
+[Messenger [430]]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 arch = "both"
-version = "auto"
+build-mode = "both"
+
+[YouTube Music [430]]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+arch = "both"
+build-mode = "both"
+
+[Reddit [430]]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+arch = "both"
+build-mode = "both"
+
+[Tiktok [430]]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+arch = "both"
+build-mode = "both"
+
+[Twitch [430]]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+arch = "both"
+build-mode = "both"
+
+[Twitter [430]]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+arch = "both"
+build-mode = "both"
+included-patches = "'Open links with app chooser'"
+
+[YouTube [430]]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+arch = "both"
+build-mode = "both"
+
+[Amazon Shopping [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
+arch = "both"
+build-mode = "both"
+
+[Backdrops [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+arch = "both"
+build-mode = "both"
+
+[Bandcamp [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
+arch = "both"
+build-mode = "both"
+
+[Duolingo [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+arch = "both"
+build-mode = "both"
+included-patches = "'Disable ads'"
+exclusive-patches = true
+
+[Facebook [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+arch = "both"
+build-mode = "both"
+
+[Google News [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
+arch = "both"
+build-mode = "both"
+
+[Google Photos [430]]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-
-[Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-
-# dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
-[Music-Extended]
-enabled = false
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
 arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-
-[YouTube-Extended]
-enabled = false
-app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
 build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[Twitch]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+[Google Recorder [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
+arch = "both"
+build-mode = "both"
 
-[Twitter]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-build-mode = "apk"
-dpi = "120-640dpi"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-
-[TikTok]
-enabled = false
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-included-patches = "'SIM spoof'"
-
-[Messenger]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-arch = "arm64-v8a"
-
-[IconPackStudio]
-enabled = false
+[Icon Pack Studio [430]]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+arch = "both"
+build-mode = "both"
+
+[Lightroom [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+arch = "both"
+build-mode = "both"
+
+[Meme Generator [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
+arch = "both"
+build-mode = "both"
+
+[MyFitnessPal [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
+arch = "both"
+build-mode = "both"
+
+[NetGuard [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
+arch = "both"
+build-mode = "both"
+
+[Photomath [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+arch = "both"
+build-mode = "both"
+
+[pixiv [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+arch = "both"
+build-mode = "both"
+
+[RAR [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
+arch = "both"
+build-mode = "both"
+
+[Solid Explorer [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
+arch = "both"
+build-mode = "both"
+
+[Sony Sound Connect [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
+arch = "both"
+build-mode = "both"
+
+[SoundCloud [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
+arch = "both"
+build-mode = "both"
+
+[ Stocard [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
+arch = "both"
+build-mode = "both"
+
+[Strava [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-run-bike-hike-3/"
+arch = "both"
+build-mode = "both"
+
+[TickTick [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+arch = "both"
+build-mode = "both"
+
+[trakt.TV [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
+arch = "both"
+build-mode = "both"
+
+[Tumblr [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+arch = "both"
+build-mode = "both"
+
+[Yuka [430]]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
+arch = "both"
+build-mode = "both"
