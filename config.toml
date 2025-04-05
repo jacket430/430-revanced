@@ -1,9 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[Messenger]
-apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger"
-uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
+[YouTubeMusic]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 build-mode = "both"
 arch = "both"
-version = "auto"
