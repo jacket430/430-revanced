@@ -8,43 +8,53 @@ parallel-jobs = 1
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+arch = "both"
 build-mode = "both"
 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+arch = "both"
 build-mode = "both"
 
 [YouTubeMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+arch = "both"
 build-mode = "both"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+arch = "both"
 build-mode = "both"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+arch = "both"
 build-mode = "both"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+arch = "both"
 build-mode = "both"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+arch = "both"
 build-mode = "both"
 included-patches = "'Open links with app chooser'"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+arch = "both"
 build-mode = "both"
 
 [Amazon]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
+arch = "both"
 build-mode = "both"
 
 [Backdrops]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+arch = "both"
 build-mode = "both"
 
 [Bandcamp]
@@ -53,12 +63,14 @@ build-mode = "both"
 
 [Duolingo]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+arch = "both"
 build-mode = "both"
 included-patches = "'Disable ads'"
 exclusive-patches = true
 
 [Facebook]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+arch = "both"
 build-mode = "both"
 
 [GoogleNews]
@@ -67,76 +79,95 @@ build-mode = "both"
 
 [GooglePhotos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+arch = "both"
 build-mode = "both"
 
 [GoogleRecorder]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
+arch = "both"
 build-mode = "both"
 
 [IconPackStudio]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+arch = "both"
 build-mode = "both"
 
 [Lightroom]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+arch = "both"
 build-mode = "both"
 
 [MemeGenerator]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
+arch = "both"
 build-mode = "both"
 
 [MyFitnessPal]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
+arch = "both"
 build-mode = "both"
 
 [NetGuard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
+arch = "both"
 build-mode = "both"
 
 [Photomath]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+arch = "both"
 build-mode = "both"
 
 [pixiv]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+arch = "both"
 build-mode = "both"
 
 [RAR]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
+arch = "both"
 build-mode = "both"
 
 [SolidExplorer]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
+arch = "both"
 build-mode = "both"
 
 [SonySoundConnect]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
+arch = "both"
 build-mode = "both"
 
 [SoundCloud]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
+arch = "both"
 build-mode = "both"
 
 [Stocard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
+arch = "both"
 build-mode = "both"
 
 [Strava]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-run-bike-hike-3/"
+arch = "both"
 build-mode = "both"
 
 [TickTick]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+arch = "both"
 build-mode = "both"
 
 [trakt.TV]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
+arch = "both"
 build-mode = "both"
 
 [Tumblr]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+arch = "both"
 build-mode = "both"
 
 [Yuka]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
+arch = "both"
 build-mode = "both"
