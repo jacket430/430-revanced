@@ -1,4 +1,3 @@
-Facebook-v7a-360-640dpi: 490.0.0.63.82  
 Facebook-v8a: 490.0.0.63.82  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
