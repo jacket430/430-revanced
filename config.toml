@@ -5,4 +5,3 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp"
 uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 build-mode = "both"
-arch = "noarch"
