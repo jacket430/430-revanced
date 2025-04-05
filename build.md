@@ -1,5 +1,4 @@
-Instagram (arm64-v8a): 374.0.0.43.67  
-Instagram (arm-v7a): 374.0.0.43.67  
+Messenger (arm64-v8a): 439.0.0.29.119  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
