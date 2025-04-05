@@ -1,9 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+[Amazon]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping"
+uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
 build-mode = "both"
-arch = "all"
+arch = "arm64-v8a + armeabi-v7a"
+apkmirror-dpi = "120-640dpi"
