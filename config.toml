@@ -6,24 +6,3 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 build-mode = "both"
 arch = "arm64-v8a"
-
-[Facebook-360-640dpi]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
-uptodown-dlurl = "https://facebook.en.uptodown.com/android"
-build-mode = "both"
-arch = "arm-v7a"
-apkmirror-dpi = "360-640dpi"
-
-[Facebook-280-320dpi]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
-uptodown-dlurl = "https://facebook.en.uptodown.com/android"
-build-mode = "both"
-arch = "arm-v7a"
-apkmirror-dpi = "280-320dpi"
-
-[Facebook-120-240dpi]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
-uptodown-dlurl = "https://facebook.en.uptodown.com/android"
-build-mode = "both"
-arch = "arm-v7a"
-apkmirror-dpi = "120-240dpi"
