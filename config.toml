@@ -1,6 +1,101 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger"
+uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
+build-mode = "both"
+arch = "both"
+
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+arch = "both"
+build-mode = "both"
+
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+build-mode = "both"
+arch = "all"
+
+[YouTubeMusic]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+build-mode = "both"
+arch = "both"
+
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+build-mode = "both"
+apkmirror-dpi = "120-640dpi"
+arch = "all"
+
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
+uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+build-mode = "both"
+arch = "arm64-v8a + armeabi-v7a"
+
+[Twitch]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch"
+uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+build-mode = "both"
+apkmirror-dpi = "120-640dpi"
+arch = "all"
+
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+build-mode = "both"
+included-patches = "'Open links with app chooser'"
+apkmirror-dpi = "120-640dpi"
+arch = "all"
+
+[Amazon]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping"
+uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
+build-mode = "both"
+arch = "arm64-v8a + armeabi-v7a"
+apkmirror-dpi = "120-640dpi"
+
+[Backdrops]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers"
+uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
+build-mode = "both"
+arch = "all"
+apkmirror-dpi = "120-640dpi"
+
+[Bandcamp]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp"
+uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
+build-mode = "both"
+
+[Facebook]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
+uptodown-dlurl = "https://facebook.en.uptodown.com/android"
+build-mode = "both"
+arch = "arm64-v8a"
+
+[GoogleNews]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news"
+uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
+build-mode = "both"
+arch = "all"
+
+[GooglePhotos]
+build-mode = "both"
+arch = "both"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 build-mode = "both"
