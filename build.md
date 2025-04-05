@@ -1,4 +1,5 @@
-GoogleNews: 5.108.0.644447823  
+GooglePhotos (arm64-v8a): 7.23.0.744052340  
+GooglePhotos (arm-v7a): 7.23.0.744052340  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
