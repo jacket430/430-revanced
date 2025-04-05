@@ -1,0 +1,6 @@
+{
+  "version": "v30.6.0.100 (patches: 5.18.0)",
+  "versionCode": 12,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/12/amazon-revanced-magisk-v30.6.0.100-arm64-v8a+armeabi-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
+}
