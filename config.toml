@@ -1,7 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[Bandcamp]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp"
-uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
+[Facebook]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
+uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 build-mode = "both"
+arch = "both"
