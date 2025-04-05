@@ -90,9 +90,9 @@ parallel-jobs = 1
 [Facebook]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
-# arch = "both"
+arch = "both"
 build-mode = "both"
-version = "auto"
+# version = "auto"
 
 # [GoogleNews]
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
