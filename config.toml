@@ -1,12 +1,12 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-# [Instagram]
-# apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-# uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+arch = "both"
+build-mode = "both"
+version = "auto"
 
 # [Messenger]
 # apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
@@ -72,16 +72,10 @@ parallel-jobs = 1
 # uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 # build-mode = "both"
 
-[Bandcamp]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
-uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
-version = "auto"
-build-mode = "both"
-
-# [Duolingo]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
-# uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
-# arch = "both"
+# [Bandcamp]
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
+# uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
+# version = "auto"
 # build-mode = "both"
 
 #                                                                                                           VALID!
@@ -229,3 +223,11 @@ build-mode = "both"
 # arch = "both"
 # build-mode = "both"
 # version = "auto"
+
+
+######### Currently not working
+# [Duolingo]
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+# uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+# arch = "both"
+# build-mode = "both"
