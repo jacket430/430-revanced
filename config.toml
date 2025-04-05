@@ -4,230 +4,175 @@ parallel-jobs = 1
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-arch = "both"
 build-mode = "both"
 version = "auto"
 
-# [Messenger]
-# apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-# uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
+build-mode = "both"
 
-# [YouTubeMusic]
-# apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-# uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[YouTubeMusic]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+build-mode = "both"
 
-# [Reddit]
-# apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-# uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-# build-mode = "both"
-# version = "auto"
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+build-mode = "both"
 
-# [Tiktok]
-# apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-# uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-# build-mode = "both"
-# version = "auto"
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+build-mode = "both"
 
-# [Twitch]
-# apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-# uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
-# build-mode = "both"
-# version = "auto"
+[Twitch]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+build-mode = "both"
 
-# [Twitter]
-# apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-# uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-# arch = "both"
-# build-mode = "both"
-# included-patches = "'Open links with app chooser'"
-# version = "auto"
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+build-mode = "both"
+included-patches = "'Open links with app chooser'"
 
-# [YouTube]
-# apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-# uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+build-mode = "both"
 
-# [Amazon]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
-# uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Amazon]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
+uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
+build-mode = "both"
 
-# [Backdrops]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
-# uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
-# build-mode = "both"
+[Backdrops]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
+build-mode = "both"
 
-# [Bandcamp]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
-# uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
-# version = "auto"
-# build-mode = "both"
+[Bandcamp]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
+uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
+build-mode = "both"
 
-#                                                                                                           VALID!
-# [Facebook]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
-# uptodown-dlurl = "https://facebook.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
+[Facebook]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+uptodown-dlurl = "https://facebook.en.uptodown.com/android"
+build-mode = "both"
 
-# [GoogleNews]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
-# uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
-# build-mode = "both"
-# version = "auto"
+[GoogleNews]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
+uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
+build-mode = "both"
 
-# [GooglePhotos]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-# uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[GooglePhotos]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+build-mode = "both"
 
-# [GoogleRecorder]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
-# uptodown-dlurl = "https://opnemer.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[GoogleRecorder]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
+uptodown-dlurl = "https://opnemer.en.uptodown.com/android"
+build-mode = "both"
 
-# [IconPackStudio]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
-# uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
-# build-mode = "both"
-# version = "auto"
+[IconPackStudio]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
+build-mode = "both"
 
-# [Lightroom]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-# uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Lightroom]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
+build-mode = "both"
 
-# [MemeGenerator]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
-# uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
-# build-mode = "both"
-# version = "auto"
+[MemeGenerator]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
+uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
+build-mode = "both"
 
-# [MyFitnessPal]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
-# uptodown-dlurl = "https://calorie-counter-myfitnesspal.en.uptodown.com/android"
-# build-mode = "both"
-# version = "auto"
+[MyFitnessPal]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
+uptodown-dlurl = "https://calorie-counter-myfitnesspal.en.uptodown.com/android"
+build-mode = "both"
 
-# [NetGuard]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
-# uptodown-dlurl = "https://netguard.en.uptodown.com/android"
-# build-mode = "both"
-# version = "auto"
+[NetGuard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
+uptodown-dlurl = "https://netguard.en.uptodown.com/android"
+build-mode = "both"
 
-# [Photomath]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
-# uptodown-dlurl = "https://photomath.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Photomath]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+uptodown-dlurl = "https://photomath.en.uptodown.com/android"
+build-mode = "both"
 
-# [pixiv]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
-# uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
-# build-mode = "both"
-# version = "auto"
+[pixiv]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
+build-mode = "both"
 
-# [RAR]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
-# uptodown-dlurl = "https://rar-for-android.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[RAR]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
+uptodown-dlurl = "https://rar-for-android.en.uptodown.com/android"
+build-mode = "both"
 
-# [SolidExplorer]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
-# uptodown-dlurl = "https://solid-explorer-file-manager.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[SolidExplorer]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
+uptodown-dlurl = "https://solid-explorer-file-manager.en.uptodown.com/android"
+build-mode = "both"
 
-# [SonySoundConnect]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
-# uptodown-dlurl = "https://sony-headphones-connect.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[SonySoundConnect]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
+uptodown-dlurl = "https://sony-headphones-connect.en.uptodown.com/android"
+build-mode = "both"
 
-# [SoundCloud]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
-# uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
-# build-mode = "both"
-# version = "auto"
+[SoundCloud]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
+uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
+build-mode = "both"
 
-# [Spotify]
-# uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+build-mode = "both"
 
-# [Stocard]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
-# uptodown-dlurl = "https://stocard.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Stocard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
+uptodown-dlurl = "https://stocard.en.uptodown.com/android"
+build-mode = "both"
 
-# [Strava]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-run-bike-hike-3/"
-# uptodown-dlurl = "https://strava.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Strava]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-run-bike-hike-3/"
+uptodown-dlurl = "https://strava.en.uptodown.com/android"
+build-mode = "both"
 
-# [TickTick]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
-# uptodown-dlurl = "https://ticktick.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[TickTick]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+uptodown-dlurl = "https://ticktick.en.uptodown.com/android"
+build-mode = "both"
 
-# [trakt]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
-# uptodown-dlurl = "https://trakt.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[trakt]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
+uptodown-dlurl = "https://trakt.en.uptodown.com/android"
+build-mode = "both"
 
-# [Tumblr]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
-# uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Tumblr]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
+build-mode = "both"
 
-# [Yuka]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
-# uptodown-dlurl = "https://yuka.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
-# version = "auto"
+[Yuka]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
+uptodown-dlurl = "https://yuka.en.uptodown.com/android"
+build-mode = "both"
 
-
-######### Currently not working
-# [Duolingo]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
-# uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
-# arch = "both"
-# build-mode = "both"
+[Duolingo]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+build-mode = "both"
