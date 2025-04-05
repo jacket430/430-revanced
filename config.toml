@@ -4,5 +4,6 @@ parallel-jobs = 1
 [Backdrops]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers"
 uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
-build-mode = "all"
+build-mode = "both"
 apkmirror-dpi = "120-640dpi"
+arch = "all"
