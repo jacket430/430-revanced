@@ -6,170 +6,170 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[Instagram [430]]
+[Instagram (430)]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 arch = "both"
 build-mode = "both"
 
-[Messenger [430]]
+[Messenger (430)]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 arch = "both"
 build-mode = "both"
 
-[YouTube Music [430]]
+[YouTube Music (430)]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "both"
 build-mode = "both"
 
-[Reddit [430]]
+[Reddit (430)]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 arch = "both"
 build-mode = "both"
 
-[Tiktok [430]]
+[Tiktok (430)]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 arch = "both"
 build-mode = "both"
 
-[Twitch [430]]
+[Twitch (430)]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 arch = "both"
 build-mode = "both"
 
-[Twitter [430]]
+[Twitter (430)]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 arch = "both"
 build-mode = "both"
 included-patches = "'Open links with app chooser'"
 
-[YouTube [430]]
+[YouTube (430)]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "both"
 build-mode = "both"
 
-[Amazon Shopping [430]]
+[Amazon Shopping (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
 arch = "both"
 build-mode = "both"
 
-[Backdrops [430]]
+[Backdrops (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 arch = "both"
 build-mode = "both"
 
-[Bandcamp [430]]
+[Bandcamp (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
 arch = "both"
 build-mode = "both"
 
-[Duolingo [430]]
+[Duolingo (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
 arch = "both"
 build-mode = "both"
 included-patches = "'Disable ads'"
 exclusive-patches = true
 
-[Facebook [430]]
+[Facebook (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 arch = "both"
 build-mode = "both"
 
-[Google News [430]]
+[Google News (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
 arch = "both"
 build-mode = "both"
 
-[Google Photos [430]]
+[Google Photos (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 arch = "both"
 build-mode = "both"
 
-[Google Recorder [430]]
+[Google Recorder (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
 arch = "both"
 build-mode = "both"
 
-[Icon Pack Studio [430]]
+[Icon Pack Studio (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 arch = "both"
 build-mode = "both"
 
-[Lightroom [430]]
+[Lightroom (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 arch = "both"
 build-mode = "both"
 
-[Meme Generator [430]]
+[Meme Generator (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
 arch = "both"
 build-mode = "both"
 
-[MyFitnessPal [430]]
+[MyFitnessPal (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
 arch = "both"
 build-mode = "both"
 
-[NetGuard [430]]
+[NetGuard (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
 arch = "both"
 build-mode = "both"
 
-[Photomath [430]]
+[Photomath (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
 arch = "both"
 build-mode = "both"
 
-[pixiv [430]]
+[pixiv (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 arch = "both"
 build-mode = "both"
 
-[RAR [430]]
+[RAR (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
 arch = "both"
 build-mode = "both"
 
-[Solid Explorer [430]]
+[Solid Explorer (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 arch = "both"
 build-mode = "both"
 
-[Sony Sound Connect [430]]
+[Sony Sound Connect (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
 arch = "both"
 build-mode = "both"
 
-[SoundCloud [430]]
+[SoundCloud (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 arch = "both"
 build-mode = "both"
 
-[ Stocard [430]]
+[ Stocard (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
 arch = "both"
 build-mode = "both"
 
-[Strava [430]]
+[Strava (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-run-bike-hike-3/"
 arch = "both"
 build-mode = "both"
 
-[TickTick [430]]
+[TickTick (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
 arch = "both"
 build-mode = "both"
 
-[trakt.TV [430]]
+[trakt.TV (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
 arch = "both"
 build-mode = "both"
 
-[Tumblr [430]]
+[Tumblr (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 arch = "both"
 build-mode = "both"
 
-[Yuka [430]]
+[Yuka (430)]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
 arch = "both"
 build-mode = "both"
