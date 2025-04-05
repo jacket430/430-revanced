@@ -1,9 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[Backdrops]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers"
-uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
+[Bandcamp]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp"
+uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 build-mode = "both"
-arch = "all"
-apkmirror-dpi = "120-640dpi"
+arch = "noarch"
