@@ -5,7 +5,7 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 build-mode = "both"
-arch = "armv7a"
+arch = "arm-v7a"
 
 [GooglePhotos-v8a]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
