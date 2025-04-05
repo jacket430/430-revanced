@@ -1,8 +1,15 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[Facebook]
+[Facebook-v8]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 build-mode = "both"
-arch = "'arm64-v8a' 'armeabi-v7a'"
+arch = "arm64-v8a"
+
+[Facebook-v7-360-640dpi]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
+uptodown-dlurl = "https://facebook.en.uptodown.com/android"
+build-mode = "both"
+arch = "armeabi-v7a"
+apkmirror-dpi = "360-640dpi"
