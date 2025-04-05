@@ -1,9 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[Backdrops]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers"
-uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+arch = "both"
 build-mode = "both"
-apkmirror-dpi = "120-640dpi"
-arch = "all"
+version = "auto"
