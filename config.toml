@@ -16,7 +16,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 arch = "both"
 build-mode = "both"
 
-[YouTube Music]
+[YouTubeMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "both"
 build-mode = "both"
