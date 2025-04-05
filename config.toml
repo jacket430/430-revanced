@@ -1,8 +1,18 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[GoogleNews]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news"
-uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
+[GooglePhotos-v7a]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 build-mode = "both"
-arch = "all"
+arch = "armv7a"
+
+[GooglePhotos-v8a]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+build-mode = "arm64-v8a"
+
+[GooglePhotos-x86-64]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+build-mode = "x86_64"
