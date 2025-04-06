@@ -1,8 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[SolidExplorer]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta"
-uptodown-dlurl = "https://solid-explorer-file-manager.en.uptodown.com/android"
+[SonySoundConnect]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect"
+uptodown-dlurl = "https://sony-headphones-connect.en.uptodown.com/android"
 build-mode = "both"
-arch = "all"
+arch = "arm64-v8a + armeabi-v7a"
+apkmirror-dpi = "120-640dpi"
