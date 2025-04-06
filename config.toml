@@ -1,8 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[Stocard]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet"
-uptodown-dlurl = "https://stocard.en.uptodown.com/android"
+[Strava]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-run-bike-hike-3"
+uptodown-dlurl = "https://strava.en.uptodown.com/android"
 build-mode = "both"
 apkmirror-dpi = "120-640dpi"
