@@ -1,8 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[trakt]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt"
-uptodown-dlurl = "https://trakt.en.uptodown.com/android"
+[Tumblr]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr"
+uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
 build-mode = "both"
-apkmirror-dpi = "160-640dpi"
+apkmirror-dpi = "120-640dpi"
