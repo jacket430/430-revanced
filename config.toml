@@ -5,6 +5,3 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
 uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
 build-mode = "both"
-apkmirror-dpi = "120-640dpi"
-arch = "all"
-version = "latest"
