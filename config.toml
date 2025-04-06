@@ -6,4 +6,3 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphone
 uptodown-dlurl = "https://sony-headphones-connect.en.uptodown.com/android"
 build-mode = "both"
 arch = "arm64-v8a + armeabi-v7a"
-apkmirror-dpi = "120-640dpi"
