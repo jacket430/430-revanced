@@ -1,10 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[MemeGenerator]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free"
-uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
+[MyFitnessPal]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal"
+uptodown-dlurl = "https://calorie-counter-myfitnesspal.en.uptodown.com/android"
 build-mode = "both"
-arch = "all"
 apkmirror-dpi = "120-640dpi"
-version = "latest"
+arch = "all"
