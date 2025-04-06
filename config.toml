@@ -1,9 +1,7 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[MyFitnessPal]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal"
-uptodown-dlurl = "https://calorie-counter-myfitnesspal.en.uptodown.com/android"
+[NetGuard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall"
+uptodown-dlurl = "https://netguard.en.uptodown.com/android"
 build-mode = "both"
-apkmirror-dpi = "120-640dpi"
-arch = "all"
