@@ -5,4 +5,4 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt"
 uptodown-dlurl = "https://trakt.en.uptodown.com/android"
 build-mode = "both"
-apkmirror-dpi = "120-640dpi"
+apkmirror-dpi = "160-640dpi"
