@@ -1,9 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[Duolingo]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo"
-uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+[Yuka]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan"
+uptodown-dlurl = "https://yuka.en.uptodown.com/android"
 build-mode = "both"
-apkmirror-dpi = "120-640dpi"
 arch = "all"
+apkmirror-dpi = "120-640dpi"
