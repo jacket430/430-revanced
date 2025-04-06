@@ -1,8 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[SoundCloud]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud"
-uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
+[Stocard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet"
+uptodown-dlurl = "https://stocard.en.uptodown.com/android"
 build-mode = "both"
-arch = "all"
+apkmirror-dpi = "120-640dpi"
