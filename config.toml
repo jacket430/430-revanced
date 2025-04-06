@@ -1,7 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[Lightroom]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom"
-uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
+[MemeGenerator]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free"
+uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
 build-mode = "both"
+arch = "all"
+apkmirror-dpi = "120-640dpi"
