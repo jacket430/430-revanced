@@ -1,9 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[RAR]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar"
-uptodown-dlurl = "https://rar-for-android.en.uptodown.com/android"
+[SolidExplorer]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta"
+uptodown-dlurl = "https://solid-explorer-file-manager.en.uptodown.com/android"
 build-mode = "both"
-apkmirror-dpi = "120-640dpi"
 arch = "all"
