@@ -6,4 +6,3 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-sc
 uptodown-dlurl = "https://yuka.en.uptodown.com/android"
 build-mode = "both"
 arch = "all"
-apkmirror-dpi = "120-640dpi"
