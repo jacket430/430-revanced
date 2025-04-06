@@ -1,7 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[pixiv]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv"
-uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
+[RAR]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar"
+uptodown-dlurl = "https://rar-for-android.en.uptodown.com/android"
 build-mode = "both"
+apkmirror-dpi = "120-640dpi"
+arch = "all"
