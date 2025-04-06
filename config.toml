@@ -1,10 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[GoogleRecorder]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder"
-uptodown-dlurl = "https://opnemer.en.uptodown.com/android"
+[IconPackStudio]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
+uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
 build-mode = "both"
 apkmirror-dpi = "120-640dpi"
-arch = "both"
-version = "latest"
+arch = "all"
