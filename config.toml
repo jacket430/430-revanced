@@ -1,7 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[NetGuard]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall"
-uptodown-dlurl = "https://netguard.en.uptodown.com/android"
+[Photomath]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath"
+uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 build-mode = "both"
+apkmirror-dpi = "120-640dpi"
