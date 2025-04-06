@@ -1,8 +1,7 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[Photomath]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath"
-uptodown-dlurl = "https://photomath.en.uptodown.com/android"
+[pixiv]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv"
+uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 build-mode = "both"
-apkmirror-dpi = "120-640dpi"
