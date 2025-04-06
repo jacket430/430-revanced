@@ -1,7 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[IconPackStudio]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
-uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
+[Lightroom]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom"
+uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 build-mode = "both"
+arch = "arm64-v8a + x86_64"
+apkmirror-dpi = "120-640dpi"
