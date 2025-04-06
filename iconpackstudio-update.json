@@ -1,6 +1,6 @@
 {
-  "version": "v2.2 build 042 (patches: 5.18.0)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/3/iconpackstudio-revanced-magisk-v2.2build042-all.zip",
+  "version": "v2.2 build 016 (patches: 5.18.0)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/4/iconpackstudio-revanced-magisk-v2.2build016-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }
