@@ -1,8 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[TickTick]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner"
-uptodown-dlurl = "https://ticktick.en.uptodown.com/android"
+[trakt]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt"
+uptodown-dlurl = "https://trakt.en.uptodown.com/android"
 build-mode = "both"
 apkmirror-dpi = "120-640dpi"
