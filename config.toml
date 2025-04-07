@@ -1,70 +1,6 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-[GooglePhotos]
-build-mode = "both"
-arch = "both"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-
-[Messenger]
-apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger"
-uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
-build-mode = "both"
-arch = "both"
-
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram"
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-arch = "both"
-build-mode = "both"
-
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-build-mode = "both"
-arch = "all"
-
-[YouTubeMusic]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-build-mode = "both"
-arch = "both"
-
-[Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit"
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-build-mode = "both"
-apkmirror-dpi = "120-640dpi"
-arch = "all"
-
-[Tiktok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
-uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-build-mode = "both"
-arch = "arm64-v8a + armeabi-v7a"
-
-[Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
-build-mode = "both"
-apkmirror-dpi = "120-640dpi"
-arch = "all"
-
-[Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter"
-uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-build-mode = "both"
-included-patches = "'Open links with app chooser'"
-apkmirror-dpi = "120-640dpi"
-arch = "all"
-
 [Amazon]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping"
 uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
@@ -84,6 +20,13 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp"
 uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 build-mode = "both"
 
+[Duolingo-Broken]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo"
+uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+build-mode = "both"
+apkmirror-dpi = "120-640dpi"
+arch = "all"
+
 [Facebook]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
@@ -96,14 +39,22 @@ uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
 build-mode = "both"
 arch = "all"
 
-[Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+[GooglePhotos]
 build-mode = "both"
 arch = "both"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [IconPackStudio]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
 uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
+build-mode = "both"
+
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+arch = "both"
 build-mode = "both"
 
 [Lightroom]
@@ -118,6 +69,12 @@ build-mode = "both"
 arch = "all"
 apkmirror-dpi = "120-640dpi"
 version = "latest"
+
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger"
+uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
+build-mode = "both"
+arch = "both"
 
 [NetGuard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall"
@@ -142,6 +99,13 @@ build-mode = "both"
 apkmirror-dpi = "120-640dpi"
 arch = "all"
 
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+build-mode = "both"
+apkmirror-dpi = "120-640dpi"
+arch = "all"
+
 [SolidExplorer]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta"
 uptodown-dlurl = "https://solid-explorer-file-manager.en.uptodown.com/android"
@@ -154,24 +118,16 @@ uptodown-dlurl = "https://sony-headphones-connect.en.uptodown.com/android"
 build-mode = "both"
 arch = "arm64-v8a + armeabi-v7a"
 
-[Duolingo-Broken]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo"
-uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
-build-mode = "both"
-apkmirror-dpi = "120-640dpi"
-arch = "all"
-
-[Yuka]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan"
-uptodown-dlurl = "https://yuka.en.uptodown.com/android"
-build-mode = "both"
-arch = "all"
-
 [SoundCloud]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 build-mode = "both"
 arch = "all"
+
+[Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+build-mode = "both"
+arch = "both"
 
 [Stocard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet"
@@ -185,6 +141,13 @@ uptodown-dlurl = "https://ticktick.en.uptodown.com/android"
 build-mode = "both"
 apkmirror-dpi = "120-640dpi"
 
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
+uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+build-mode = "both"
+arch = "arm64-v8a + armeabi-v7a"
+
 [trakt]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt"
 uptodown-dlurl = "https://trakt.en.uptodown.com/android"
@@ -196,3 +159,40 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr"
 uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
 build-mode = "both"
 apkmirror-dpi = "120-640dpi"
+
+[Twitch]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch"
+uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+build-mode = "both"
+apkmirror-dpi = "120-640dpi"
+arch = "all"
+
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+build-mode = "both"
+included-patches = "'Open links with app chooser'"
+apkmirror-dpi = "120-640dpi"
+arch = "all"
+
+[Yuka]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan"
+uptodown-dlurl = "https://yuka.en.uptodown.com/android"
+build-mode = "both"
+arch = "all"
+
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+build-mode = "both"
+arch = "all"
+
+[YouTubeMusic]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+build-mode = "both"
+arch = "both"
