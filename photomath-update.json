@@ -1,6 +1,6 @@
 {
-  "version": "v8.37.0 (patches: 5.18.0)",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/7/photomath-revanced-magisk-v8.37.0-all.zip",
+  "version": "v8.43.0 (patches: 5.19.0)",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/3/photomath-revanced-magisk-v8.43.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }
