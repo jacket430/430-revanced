@@ -1,6 +1,6 @@
 {
-  "version": "v10.65.1 (patches: 5.19.0)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/3/stocard-revanced-magisk-v10.65.1-all.zip",
+  "version": "v10.65.1 (patches: 5.19.1)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/4/stocard-revanced-magisk-v10.65.1-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }

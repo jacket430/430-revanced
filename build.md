@@ -6,7 +6,7 @@ Facebook: 490.0.0.63.82
 GoogleNews: 5.108.0.644447823  
 Photomath: 8.43.0  
 SoundCloud: 2025.03.25-release  
-Spotify (arm64-v8a): 9.0.38.108  
+Spotify (arm64-v8a): 9.0.38.110  
 Stocard: 10.65.1  
 TickTick-broken: 7.5.4.0  
 Tumblr: 38.8.0.109  
@@ -22,5 +22,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.19.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.19.0)  
+Patches: ReVanced/patches-5.19.1.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.19.1)  

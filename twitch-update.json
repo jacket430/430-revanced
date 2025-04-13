@@ -1,6 +1,6 @@
 {
-  "version": "v16.9.1 (patches: 5.19.0)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/3/twitch-revanced-magisk-v16.9.1-all.zip",
+  "version": "v16.9.1 (patches: 5.19.1)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/4/twitch-revanced-magisk-v16.9.1-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }
