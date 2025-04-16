@@ -1,6 +1,6 @@
 {
-  "version": "v374.0.0.43.67 (patches: 5.18.0)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/2/instagram-revanced-magisk-v374.0.0.43.67-arm64-v8a.zip",
+  "version": "v376.0.0.52.68 (patches: 5.20.1)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/5/instagram-revanced-magisk-v376.0.0.52.68-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }

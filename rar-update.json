@@ -1,6 +1,6 @@
 {
-  "version": "v7.01.build123 (patches: 5.18.0)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/9/rar-revanced-magisk-v7.01.build123-all.zip",
+  "version": "v7.11.build126 (patches: 5.20.1)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/5/rar-revanced-magisk-v7.11.build126-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }

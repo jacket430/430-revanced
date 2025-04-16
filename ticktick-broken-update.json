@@ -1,6 +1,6 @@
 {
-  "version": "v7.5.4.0 (patches: 5.19.1)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/4/ticktick-broken-revanced-magisk-v7.5.4.0-all.zip",
+  "version": "v7.5.4.0 (patches: 5.20.1)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/5/ticktick-broken-revanced-magisk-v7.5.4.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }
