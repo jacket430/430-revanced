@@ -1,6 +1,6 @@
 {
-  "version": "v6.27.4 (patches: 5.21.0)",
-  "versionCode": 6,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/6/duolingo-broken-revanced-magisk-v6.27.4-all.zip",
+  "version": "v6.28.5 (patches: 5.22.0)",
+  "versionCode": 7,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/7/duolingo-broken-revanced-magisk-v6.28.5-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }

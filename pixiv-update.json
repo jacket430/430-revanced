@@ -1,6 +1,6 @@
 {
-  "version": "v6.139.0 (patches: 5.18.0)",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/8/pixiv-revanced-magisk-v6.139.0-all.zip",
+  "version": "v6.140.2 (patches: 5.22.0)",
+  "versionCode": 7,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/7/pixiv-revanced-magisk-v6.140.2-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }

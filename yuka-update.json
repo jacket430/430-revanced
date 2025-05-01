@@ -1,6 +1,6 @@
 {
-  "version": "v4.29 (patches: 5.18.0)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/4/yuka-revanced-magisk-v4.29-all.zip",
+  "version": "v4.29 (patches: 5.22.0)",
+  "versionCode": 7,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/7/yuka-revanced-magisk-v4.29-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }
