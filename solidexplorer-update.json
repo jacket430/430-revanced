@@ -1,6 +1,6 @@
 {
-  "version": "v2.8.61 (patches: 5.22.0)",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/7/solidexplorer-revanced-magisk-v2.8.61-all.zip",
+  "version": "v2.8.61 (patches: 5.24.0)",
+  "versionCode": 8,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/8/solidexplorer-revanced-magisk-v2.8.61-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }

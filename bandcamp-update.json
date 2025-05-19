@@ -1,6 +1,6 @@
 {
-  "version": "v3.1.4 (patches: 5.22.0)",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/7/bandcamp-revanced-magisk-v3.1.4-all.zip",
+  "version": "v3.1.4 (patches: 5.24.0)",
+  "versionCode": 8,
+  "zipUrl": "https://github.com/jacket430/430-revanced/releases/download/8/bandcamp-revanced-magisk-v3.1.4-all.zip",
   "changelog": "https://raw.githubusercontent.com/jacket430/430-revanced/update/build.md"
 }
